@@ -42,12 +42,3 @@
 ### 🏅 Formação & Certificações
 - **Pós-Graduação em Data Analytics** — FIAP *(Em andamento)*
 - **Google Data Analytics Professional Certificate** — Google / Coursera ([Credencial](link-da-sua-credencial-google))
-
----
-
-### 📊 Atividade no GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Yan-Kawano-Takahashi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Kawano-Takahashi&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
